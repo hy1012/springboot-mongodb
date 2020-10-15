@@ -1,0 +1,6 @@
+server:
+  port: 8050
+spring:
+  data:
+    mongodb:
+      uri: mongodb://xxc:123456@vm.com:27017/huyan
